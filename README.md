@@ -4,7 +4,11 @@
 
 # Jaguar bipartite network
 
-- [Script `.R`]()
+- [Script 1 `.R`](https://github.com/fblpalmeira/jaguar_bipartite/blob/main/data/jaguar_bipartite.R)
+
+- [Script 2 `.R`]()
+
+- [Script 3 `.R`]()
 
 - [Database `.csv`](https://github.com/fblpalmeira/jaguar_bipartite/blob/main/data/jaguar_bipartite.csv)
 
