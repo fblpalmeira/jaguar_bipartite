@@ -8,7 +8,7 @@
 
 - [Script 2 `.R`](https://github.com/fblpalmeira/jaguar_bipartite/blob/main/data/Ordernet.R)
 
-- [Script 3 `.R`]()
+- [Script 3 `.R`](https://github.com/fblpalmeira/jaguar_bipartite/blob/main/data/Entropy.R)
 
 - [Database `.csv`](https://github.com/fblpalmeira/jaguar_bipartite/blob/main/data/jaguar_bipartite.csv)
 
