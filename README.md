@@ -8,7 +8,7 @@
 
 - [Database `.csv`]()
 
-<img src="">
+<img src="https://raw.githubusercontent.com/fblpalmeira/jaguar_bipartite/main/data/jaguar_bipartite2.png">
 
 References: 
 
