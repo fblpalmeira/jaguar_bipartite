@@ -1,10 +1,14 @@
+# #30DayChartChallenge_2022
+
+# Day 17 (17 April 2022) | Connections
+
 # Jaguar bipartite
 
-- [Script `.R`](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.R)
+- [Script `.R`]()
 
-- [Database `.csv`](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.csv)
+- [Database `.csv`]()
 
-<img src="jaguar_foodweb2.gif">
+<img src="">
 
 References: 
 
