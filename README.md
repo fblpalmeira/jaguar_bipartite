@@ -6,7 +6,7 @@
 
 - [Script 1 `.R`](https://github.com/fblpalmeira/jaguar_bipartite/blob/main/data/jaguar_bipartite.R)
 
-- [Script 2 `.R`]()
+- [Script 2 `.R`](https://github.com/fblpalmeira/jaguar_bipartite/blob/main/data/Ordernet.R)
 
 - [Script 3 `.R`]()
 
