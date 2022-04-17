@@ -2,11 +2,11 @@
 
 # Day 17 (17 April 2022) | Connections
 
-# Jaguar bipartite
+# Jaguar bipartite network
 
 - [Script `.R`]()
 
-- [Database `.csv`]()
+- [Database `.csv`](https://github.com/fblpalmeira/jaguar_bipartite/blob/main/data/jaguar_bipartite.csv)
 
 <img src="https://raw.githubusercontent.com/fblpalmeira/jaguar_bipartite/main/data/jaguar_bipartite2.png">
 
